@@ -5,21 +5,18 @@ var config = {
     texts: [
          "Sir, Enow!",    
         // "I'm glad to have you",  // 同上...
-        "Beyond teaching", //
-        "you've been a guiding light", //
+        "Beyond teaching, you've been a guiding light", //
         "shaping our perspective on life",
         "Your lessons extend beyond academics",
         "emphasizing kindness and empathy",
         "Your generosity is a true inspiration",
         "Your influence goes beyond the classroom",
         "instilling values that truly matter",
-        "It's unfortunate",
-        "we have to separate",
-        "But Whatever the case",
+        "It's unfortunate that we have to separate",
+        "But Whatever the case,",
         "This experience of ours was marvelous",
         "Thank you for being more than a teacher",
-        "you are a mentor",
-        "a source of inspiration.",
+        "you are a mentor and a source of inspiration",
         "With all the love,",
         "Happy birthday!",
         "From Your Family",
