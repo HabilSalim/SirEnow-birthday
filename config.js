@@ -5,7 +5,8 @@ var config = {
     texts: [
          "Sir, Enow!",    
         // "I'm glad to have you",  // 同上...
-        "Beyond teaching, you've been a guiding light", //
+        "Beyond teaching", //
+        "you've been a guiding light", //
         "shaping our perspective on life",
         "Your lessons extend beyond academics",
         "emphasizing kindness and empathy",
